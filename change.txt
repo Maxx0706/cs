@@ -1,17 +1,21 @@
-External No Write Chams
-Players
-Materials; textured , flat, metallic, wireframe, glow end, flow, dark matter, ripples.
-color wheel with opacity slider
-glow hack eith cusotrmizable colors, strength and thickness
-ragdoll/dead body chams
-weapon chams
-render chasm on shot (it shows where they were when you shot them with fade out time 
+# CHANGELOG
 
-death/blood effect 
+# EXTERNAL NO WRITE CHAMS
+- Added Player materials: textured, flat, metallic, wireframe, glow end, flow, dark matter, and ripples
+- Added color wheel with opacity slider
 
-duration spread, gkow and particles
-external radar hooking into the in game mini map 
+# VISUALS AND GLOW
+- Customizable glow hack with adjustable colors, strength, and thickness
+- Ragdoll and dead body chams included
+- Weapon chams included
+- Render chams on shot feature shows target position at time of shot with adjustable fade out time
 
-emulate particles in game
+# EFFECTS AND RADAR
+- Blood effect with adjustable duration, spread, glow, and particles
+- External radar hooking into in-game mini map (BETA: probably won't work)
+- Emulate in-game particles (BETA: probably won't work)
 
-COMING SOON MAP PARSING FOR VISIBLE CHECK, TRIGGERBOPT, AIMBOT, CHICKEN AND WEAPON ESP
+# COMING SOON
+- Map parsing for visible check
+- Triggerbot and Aimbot
+- Chicken and Weapon ESP
