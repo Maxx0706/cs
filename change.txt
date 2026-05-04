@@ -13,7 +13,7 @@ CHANGELOG
 # EFFECTS AND RADAR
 - Blood effect with adjustable duration, spread, glow, and particles
 - External radar hooking into in-game mini map (BETA: probably won't work)
-- Emulate in-game particles (BETA: probably won't work)
+- Emulate in-game particles: ash, snow, stars, rain, and leaves
 
 # COMING SOON
 - Map parsing for visible check
