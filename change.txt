@@ -5,13 +5,12 @@ Health bar + health number
 Tracers (lines from screen bottom to players)
 Show team toggle
 
-Not added yet (Im tired ive worked on this for 4 hours ill add these next):
-Name/weapon/ammo/money/ping flags
-Skeleton ESP
-Armor bar
-Bomb ESP
-Sniper crosshair
-Spectator list (so you know when you cant be blatant)
+Name/weapon/ammo/money/ping flags (BETA, EXPECT BUGS)
+Skeleton ESP (BETA, EXPECT BUGS)
+Armor bar (BETA, EXPECT BUGS)
+Bomb ESP (BETA, EXPECT BUGS)
+Sniper crosshair (BETA, EXPECT BUGS)
+Spectator list (so you know when you cant be blatant) (BETA, EXPECT BUGS)
 
 CHANGELOG
 
