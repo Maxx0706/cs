@@ -20,3 +20,11 @@ CHANGELOG
 - Triggerbot and Aimbot
 - Chicken and Weapon ESP
 - Skin Changer
+
+# COMING NEXT
+- SKELETON ESP
+- BOX ESP
+- HEALTHBAR ESP
+- HELD WEAPON
+- USERNAME
+- DISTANCE
