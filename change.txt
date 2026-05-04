@@ -1,4 +1,4 @@
-# CHANGELOG
+CHANGELOG
 
 # EXTERNAL NO WRITE CHAMS
 - Added Player materials: textured, flat, metallic, wireframe, glow end, flow, dark matter, and ripples
@@ -6,7 +6,7 @@
 
 # VISUALS AND GLOW
 - Customizable glow hack with adjustable colors, strength, and thickness
-- Ragdoll and dead body chams included
+- Ragdoll / dead body chams included
 - Weapon chams included
 - Render chams on shot feature shows target position at time of shot with adjustable fade out time
 
