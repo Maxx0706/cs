@@ -1,0 +1,17 @@
+External No Write Chams
+Players
+Materials; textured , flat, metallic, wireframe, glow end, flow, dark matter, ripples.
+color wheel with opacity slider
+glow hack eith cusotrmizable colors, strength and thickness
+ragdoll/dead body chams
+weapon chams
+render chasm on shot (it shows where they were when you shot them with fade out time 
+
+death/blood effect 
+
+duration spread, gkow and particles
+external radar hooking into the in game mini map 
+
+emulate particles in game
+
+COMING SOON MAP PARSING FOR VISIBLE CHECK, TRIGGERBOPT, AIMBOT, CHICKEN AND WEAPON ESP
