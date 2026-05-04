@@ -1,3 +1,19 @@
+Working ESP features:
+Box ESP (team/enemy colors)
+Head tracker circle
+Health bar + health number
+Tracers (lines from screen bottom to players)
+Show team toggle
+
+Removed (data not available):
+
+Name/weapon/ammo/money/ping flags
+Skeleton ESP
+Armor bar
+Bomb ESP
+Sniper crosshair
+Spectator list
+
 CHANGELOG
 
 # EXTERNAL NO WRITE CHAMS
