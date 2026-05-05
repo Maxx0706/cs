@@ -1,45 +1,14 @@
-Working ESP features:
-Box ESP (team/enemy colors)
-Head tracker circle
-Health bar + health number
-Tracers (lines from screen bottom to players)
-Show team toggle
+Cap FPS In CS2 To Match Cheat FPS.
+Menu Overhaul. Feature Overhaul.
+Modules:
+Aimbot: Fov smoothing head only visible only auto wall predictive 
+Triggerbot: delay, hitchance, auto wall,. auto stopo *HVH PEAK), preidcitive. penetrable corsshair. real life view where bullet will go and if it will penerater and hit target or not
 
-Name/weapon/ammo/money/ping flags (BETA, EXPECT BUGS)
-Skeleton ESP (BETA, EXPECT BUGS)
-Armor bar (BETA, EXPECT BUGS)
-Bomb ESP (BETA, EXPECT BUGS)
-Sniper crosshair (BETA, EXPECT BUGS)
-Spectator list (so you know when you cant be blatant) (BETA, EXPECT BUGS)
+esp ewith insane cusortmixability box styles skeleton style s health bvar ammo bar name weapon info flags hitbox (outliebn and if hes viisble or not for wallbang and legit 
 
-CHANGELOG
+item esp ground loot esp proejctile /throowable 
+esp and their radius
 
-# EXTERNAL NO WRITE CHAMS
-- Added Player materials: textured, flat, metallic, wireframe, glow end, flow, dark matter, and ripples
-- Added color wheel with opacity slider
+grenade prediction
 
-# VISUALS AND GLOW
-- Customizable glow hack with adjustable colors, strength, and thickness
-- Ragdoll / dead body chams included
-- Weapon chams included
-- Render chams on shot feature shows target position at time of shot with adjustable fade out time
-
-# EFFECTS AND RADAR
-- Blood effect with adjustable duration, spread, glow, and particles
-- External radar hooking into in-game mini map (Discontinued for Now)
-- Emulate in-game particles: ash, snow, stars, rain, and leaves
-
-# COMING SOON
-- Map parsing for visible check
-- Triggerbot and Aimbot
-- Chicken and Weapon ESP
-- Skin Changer
-
-# COMING NEXT
-- SKELETON ESP
-- BOX ESP
-- HEALTHBAR ESP
-- ARMOR BAR ESP
-- HELD WEAPON
-- USERNAME
-- DISTANCE
+fully external zero write freat for HVH, rage, and klefgit. all incldued in base roblox membership.
