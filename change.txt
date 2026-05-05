@@ -12,3 +12,6 @@ esp and their radius
 grenade prediction
 
 fully external zero write freat for HVH, rage, and klefgit. all incldued in base roblox membership.
+
+
+dynamic fov ciercle for zoomed in weapons 
